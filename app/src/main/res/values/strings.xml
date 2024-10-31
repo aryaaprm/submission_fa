@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Dicoding Event</string>
+
+    <string name="title_home">Home</string>
+    <string name="title_upcoming_event">Upcoming</string>
+    <string name="title_finished_event">Finished</string>
+    <string name="title_description">Description</string>
+    <string name="title_saved_event">Saved</string>
+    <string name="title_settings">Setting</string>
+    <string name="button_register">Register</string>
+    <string name="dark_mode">Dark Mode</string>
+    <string name="dummy_text">Dummy Text</string>
+    <string name="finished_fragment">Finished Events</string>
+    <string name="home_fragment">Dicoding Events</string>
+    <string name="upcoming_fragment">Upcoming Events</string>
+    <string name="saved_fragment">Saved Events</string>
+    <string name="no_data">No bookmarked events</string>
+</resources>
